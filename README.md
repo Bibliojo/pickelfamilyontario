@@ -1,4 +1,4 @@
-### pickelfamilyontario
+# pickelfamilyontario
 
 *A one-name study is a project researching all occurrences of a surname. I will focus on Pickel/Pickle/Pickell*
 [Guild of One-Name studies](https://one-name.org/Results)
