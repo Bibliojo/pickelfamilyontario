@@ -1,8 +1,8 @@
-# pickelfamilyontario
+# Pickel Families in Ontario 
 
 *A one-name study is a project researching all occurrences of a surname. I will focus on Pickel/Pickle/Pickell*
-[Guild of One-Name studies](https://one-name.org/Results)
-[International Society of Genetic Genealogy Wiki](https://isogg.org/wiki/One-name_study)
+[Guild of One-Name studies](https://one-name.org/Results)  
+[International Society of Genetic Genealogy Wiki](https://isogg.org/wiki/One-name_study)  
 ---
 ## Pickel Family History
 **Pickel Name Meaning**
